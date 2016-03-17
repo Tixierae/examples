@@ -1,0 +1,34 @@
+Stack Overflow is a privately held website, the flagship site of the Stack Exchange Network, 4  5  6  created in 2008 by Jeff Atwood and Joel Spolsky.
+It is commonly topped with a selection of meats, vegetables and condiments. 
+It features questions and answers on a wide range of topics in computer programming. 10  11  12 
+Several similar dishes are prepared from ingredients commonly used in pizza preparation, such as calzone and stromboli. It is a popular fast food item.
+The website serves as a platform for users to ask and answer questions, and, through membership and active participation, to vote questions and answers up or down and edit questions and answers in a fashion similar to a wiki or Digg. 
+Pizza is a flatbread generally topped with tomato sauce and cheese and baked in an oven. 
+13  Users of Stack Overflow can earn reputation points and badges; for example, a person is awarded 10 reputation points for receiving an up vote on an answer given to a question, and can receive badges for their valued contributions, 14  which represents a kind of gamification of the traditional Q&A site or forum. All user-generated content is licensed under a Creative Commons Attribute-ShareAlike license. 15 
+Closing questions is a main differentiation from Yahoo! 
+The modern pizza was invented in Naples, Italy, and the dish and its variants have since become popular in many areas of the world. 2 
+In 2009, upon Italys request, Neapolitan pizza was safeguarded in the European Union as a Traditional Speciality Guaranteed dish. 3  4  
+Answers and a way to prevent low quality questions. 16  
+It promotes and protects the true Neapolitan pizza. 5 
+The mechanism was overhauled in 2013; questions edited after being put on hold now appear in a review queue. 17  Jeff Atwood stated in 2010 that duplicate questions are not seen as a problem but rather they constitute an advantage if such additional questions drive extra traffic to the site by multiplying relevant keyword hits in search engines. 18 
+The Associazione Verace Pizza Napoletana (the True Neapolitan Pizza Association) is a non-profit organization founded in 1984 with headquarters in Naples. 
+As of April 2014, Stack Overflow has over 4,000,000 registered users 19  and more than 10,000,000 questions, 20  with 10,000,000 questions celebrated 21  in late August 2015. 
+Modern pizza evolved from similar flatbread dishes in Naples, Italy in the 18th or early 19th century. 14  Until about 1830, pizza was sold from open-air stands and out of pizza bakeries, and pizzerias keep this old tradition alive today. Antica Pizzeria PortAlba in Naples is widely regarded as the first pizzeria. 15 
+7  8  It was created to be a more open alternative to earlier Q&A sites such as Experts-Exchange. 9 
+Pizza is sold fresh, frozen or in portions. Various types of ovens are used to cook them and many varieties exist. 
+The name for the website was chosen by voting in April 2008 by readers of Coding Horror, Atwoods popular programming blog. 
+A popular contemporary legend holds that the archetypal pizza, pizza Margherita, was invented in 1889, when the Royal Palace of Capodimonte commissioned the Neapolitan pizzaiolo (pizza maker) Raffaele Esposito to create a pizza in honor of the visiting Queen Margherita. Of the three different pizzas he created, the Queen strongly preferred a pie swathed in the colors of the Italian flag: red (tomato), green (basil), and white (mozzarella). 
+Stack Exchange is a network of question and answer Web sites on topics in varied fields, each site covering a specific topic, where questions, answers, and users are subject to a reputation award process. 
+Prior to that time, flatbread was often topped with ingredients such as garlic, salt, lard, cheese, and basil. It is uncertain when tomatoes were first added and there are many conflicting claims. 14  
+The sites are modeled after Stack Overflow, a Q&A site for computer programming questions that was the original site in this network. The reputation system allows the sites to be self-moderating.
+The term was first recorded in the 10th century, in a Latin manuscript from Gaeta in Central Italy. 1  
+ 6  User contributions are licensed under Creative Commons Attribution-ShareAlike 3.0 Unported. 1 
+Supposedly, this kind of pizza was then named after the Queen as Pizza Margherita, 16  although recent research casts doubt on this legend. 17
+Based on the type of tags assigned to questions, the top eight most discussed topics on the site are: Java, JavaScript, C#, PHP, Android, jQuery, Python and HTML. 22
+A popular variant of pizza in Italy is Sicilian pizza (locally called sfincione or sfinciuni), 32  33  a thick-crust or deep-dish pizza originating during the 17th century in Sicily: it is essentially a focaccia that is typically topped with tomato sauce and other ingredients. 
+Stack Exchange uses IIS, SQL Server, 28  and the ASP.NET framework, 28  all from a single code base for every Stack Exchange site (except Area 51, which runs off a fork of the Stack Overflow code base citation needed ). 
+The code is primarily written in C# ASP.NET MVC using the Razor View Engine. The preferred IDE is Visual Studio and the data layers uses Dapper for data access. 29 
+Until the 1860s, sfincione was the type of pizza usually consumed in Sicily, especially in the Western portion of the island. 34  
+Blogs formerly used WordPress, but they were updated to run Jekyll. citation needed  The team also notably uses Redis, HAProxy and Elasticsearch. 28 
+Other variations of pizzas are also found in other regions of Italy, for example pizza al padellino or pizza al tegamino, a small-sized, thick-crust and deep-dish pizza typically served in Turin, Piedmont. 35  36  37 
+Stack Exchange tries to stay up to date with the newest technologies from Microsoft, usually using the latest releases of any given framework. 
